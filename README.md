@@ -41,7 +41,7 @@ our project structure should look like this:
 
 ### Setup
 
-1.  **Clone the repository (if applicable)**: If this project is hosted in a Git repository, clone it to your local machine.
+1.  **Clone the repository (if applicable)**
 2.  **Create a virtual environment (recommended)**:
     ```bash
     python -m venv venv
