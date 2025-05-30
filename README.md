@@ -49,7 +49,7 @@ our project structure should look like this:
     ```
 3.  **Install dependencies**: The experiment relies on the following Python libraries.
     ```bash
-    pip install pandas numpy scikit-learn matplotlib seaborn
+    pip install -r requirements.txt
     ```
 
 ### Running the Notebook
